@@ -7,6 +7,7 @@
 The _**N+ Platform**_ is a project started by Marcs Wilkinson as a capstone project in **Product Design** at the _Wilson School of Design_, Kwantlen Polytechnic University.
 
 ​
+**This model fits European size 45**
 
 It's an additive enabled bike shoe designed to end all bike shoes. Designed for the creative cyclists, the project aspires to provide a shoe that is:
 
