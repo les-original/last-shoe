@@ -16,4 +16,4 @@ It's an additive enabled bike shoe designed to end all bike shoes. Designed for 
 - Customizable
 
 ### Get Started & Stay Informed
-https://www.lesoriginal.com/n-plus-signup
+https://les.lesoriginal.com/n-plus-signup
