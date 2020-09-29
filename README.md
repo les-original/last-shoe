@@ -5,6 +5,7 @@
 ## About 
 
 The _**N+ Platform**_ is a project started by Marcs Wilkinson as a capstone project in **Product Design** at the _Wilson School of Design_, Kwantlen Polytechnic University.
+It's slow going, but a work in progress under the project name Last shoe by Les Original Tourist Equipment.
 
 ​
 **This model fits European size 45**
