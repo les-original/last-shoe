@@ -1,7 +1,5 @@
 # Last Shoe - The first bike shoe from LES ORIGINAL
 
-## Free Your Cleats from Tyranny
-
 ### About 
 
 #### FREE YOUR CLEATS FROM TYRANNY!
