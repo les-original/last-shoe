@@ -23,10 +23,10 @@ It's an additive enabled bike shoe designed to end all bike shoes. Designed for 
 - Customizable
 
 ### Get Started & Stay Informed
-https://last.lesoriginal.com/n-plus-signup
+[Les Original signup](https://www.marcsist.com/things/les-original/)
 
 ### See our other products
-https://lesoriginal.square.site
+[Notion site](https://www.notion.so/lesoriginal/Products-c73553a3f9564c49b675799e58984206)
 
 <img src="https://user-images.githubusercontent.com/43764595/98449354-2ef83800-2133-11eb-936d-ca94b60e4226.png" width="100"  height="75" />
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
